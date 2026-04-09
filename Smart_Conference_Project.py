@@ -9,7 +9,7 @@ df = pd.DataFrame()
 
 # CONSTANTS
 WORKING_START = 8
-WORKING_END = 18
+WORKING_END = 16
 REQUIRED_COLUMNS = {'Meeting_ID', 'Meeting_Name', 'Start_Time', 'End_Time', 'Priority', 'Room', 'Participants'}
 
 # Helper Functions 
